@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\bin\Debug\netcoreapp3.1\VALIDACAO DE DADOS.exe
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\bin\Debug\netcoreapp3.1\VALIDACAO DE DADOS.deps.json
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\bin\Debug\netcoreapp3.1\VALIDACAO DE DADOS.runtimeconfig.json
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\bin\Debug\netcoreapp3.1\VALIDACAO DE DADOS.runtimeconfig.dev.json
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\bin\Debug\netcoreapp3.1\VALIDACAO DE DADOS.dll
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\bin\Debug\netcoreapp3.1\VALIDACAO DE DADOS.pdb
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\obj\Debug\netcoreapp3.1\VALIDACAO DE DADOS.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\obj\Debug\netcoreapp3.1\VALIDACAO DE DADOS.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\obj\Debug\netcoreapp3.1\VALIDACAO DE DADOS.AssemblyInfo.cs
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\obj\Debug\netcoreapp3.1\VALIDACAO DE DADOS.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\obj\Debug\netcoreapp3.1\VALIDACAO DE DADOS.dll
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\obj\Debug\netcoreapp3.1\VALIDACAO DE DADOS.pdb
+C:\Users\fic\Desktop\VALIDACAO DE DADOS\obj\Debug\netcoreapp3.1\VALIDACAO DE DADOS.genruntimeconfig.cache
